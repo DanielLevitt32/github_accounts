@@ -30,4 +30,4 @@ Texas Tribune,
 USA Today,
 Vox,
 Wall Street Journal,
-Washington Post,
+Washington Post.
